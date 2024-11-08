@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a Computer Science and Engineering (CSE) student with a strong focus on software engineering and artificial intelligence. I started my journey in programming with C, which laid the foundation for my understanding of computer science concepts. After that, I transitioned to Java, where I deepened my knowledge of object-oriented programming and design patterns. Over time, I expanded my skill set to include web technologies such as HTML, CSS, JavaScript, and React, allowing me to build dynamic and interactive websites. My interest in both development and research has shaped my goal to contribute to academia and technology through impactful projects.
 
-* 🌍  I'm based in Bangladesh
+* 🌍  I'm from Bangladesh
 * ✉️  You can contact me at [rafsunislamtaskin024@gmail.com](mailto:rafsunislamtaskin024@gmail.com)
 
 ### Skills
