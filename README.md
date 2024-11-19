@@ -29,6 +29,4 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 
 <a href="https://github.com/Rafsun-Islam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsun-Islam&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br><br><br><br>
-
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" /></p> 
