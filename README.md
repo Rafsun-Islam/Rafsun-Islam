@@ -25,13 +25,17 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 
 <p align="left"> <a href="https://discord.com/users/rafsun_islam_taskin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/MyselfTaskin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Rafsun-Islam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/myself__taskin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## My Journey
 
-<b>My GitHub Stats</b>
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Rafsun-Islam&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rafsun-Islam&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafsun-Islam&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafsun-Islam&theme=onedark" />
+</div>
 
-<a href="http://www.github.com/Rafsun-Islam"><img src="https://github-readme-stats.vercel.app/api?username=Rafsun-Islam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Rafsun-Islam's GitHub stats" /></a>
+## My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Rafsun-Islam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafsun-Islam&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true" alt="Stats" />
-
-
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" /></p> 
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/Rafsun-Islam/Rafsun-Islam/output/github-contribution-grid-snake-dark.svg)
