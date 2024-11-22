@@ -2,7 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=Rafsun-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View Count" /> 
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsun Islam Taskin
+<img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+
+My name is Rafsun Islam Taskin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
 Full Stack Developer
@@ -38,4 +40,4 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Rafsun-Islam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/Rafsun-Islam/Rafsun-Islam/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Rafsun-Islam/Rafsun-Islam/blob/output/github-contribution-grid-snake.svg)
