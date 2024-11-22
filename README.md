@@ -1,3 +1,7 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Rafsun-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View Count" /> 
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafsun Islam Taskin
 ===========================================================================================================================================
 
@@ -27,6 +31,7 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 
 <a href="http://www.github.com/Rafsun-Islam"><img src="https://github-readme-stats.vercel.app/api?username=Rafsun-Islam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Rafsun-Islam's GitHub stats" /></a>
 
-<a href="https://github.com/Rafsun-Islam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsun-Islam&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafsun-Islam&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=22272e&hide_border=true" alt="Stats" />
+
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" /></p> 
