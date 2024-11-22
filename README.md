@@ -1,6 +1,4 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Rafsun-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View Count" /> 
-</p>
+
 
 <img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
@@ -12,8 +10,6 @@ Full Stack Developer
 
 I am a Computer Science and Engineering (CSE) student with a strong focus on software engineering and artificial intelligence. I started my journey in programming with C, which laid the foundation for my understanding of computer science concepts. After that, I transitioned to Java, where I deepened my knowledge of object-oriented programming and design patterns. Over time, I expanded my skill set to include web technologies such as HTML, CSS, JavaScript, and React, allowing me to build dynamic and interactive websites. My interest in both development and research has shaped my goal to contribute to academia and technology through impactful projects.
 
-* 🌍  I'm from Bangladesh
-* ✉️  You can contact me at [rafsunislamtaskin024@gmail.com](mailto:rafsunislamtaskin024@gmail.com)
 
 ### Skills
 
@@ -39,5 +35,24 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Rafsun-Islam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!-- Socials -->
+<div align="center">
+  
+## 🌐 Connect with Me 🍬
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) 
+
+</div>
+
 ## Feeding...
-![Snake animation](https://github.com/Rafsun-Islam/Rafsun-Islam/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Rafsun-Islam/Rafsun-Islam/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Rafsun-Islam&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
