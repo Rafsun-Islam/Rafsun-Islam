@@ -1,3 +1,8 @@
+
+<!-- Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafsun-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <div align="center">
 
 <img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
@@ -8,8 +13,9 @@ My name is Rafsun Islam Taskin ![](https://user-images.githubusercontent.com/183
 
 Full Stack Developer
 --------------------
+<h3 align="left"> 🎓 Final-year CSE student at East West University, specializing in Software Engineering. 
+  <br> 💻 Passionate about building efficient software and exploring emerging technologies. </h3>
 
-I am a Computer Science and Engineering (CSE) student with a strong focus on software engineering and artificial intelligence. I started my journey in programming with C, which laid the foundation for my understanding of computer science concepts. After that, I transitioned to Java, where I deepened my knowledge of object-oriented programming and design patterns. Over time, I expanded my skill set to include web technologies such as HTML, CSS, JavaScript, and React, allowing me to build dynamic and interactive websites. My interest in both development and research has shaped my goal to contribute to academia and technology through impactful projects.
 
 
 ### Languages and Tools
@@ -60,7 +66,10 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/rafsun_islam_taskin) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafsunislamtaskin)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/rafsunislamtaskin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafsun-islam-taskin-b1309733a/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/rafsun_islam_taskin) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafsunislamtaskin)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/rafsunislamtaskin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafsun-islam-taskin-b1309733a/) 
 
 </div>
 
@@ -71,10 +80,4 @@ I am a Computer Science and Engineering (CSE) student with a strong focus on sof
 <div align="center">
     
   ![snake gif](https://github.com/Rafsun-Islam/Rafsun-Islam/blob/output/github-snake-dark.svg)
-</div>
-
-<!-- Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Rafsun-Islam&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
