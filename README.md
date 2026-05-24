@@ -31,18 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rafsun-Islam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsun-Islam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&hide=jupyter%20notebook,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=Rafsun-Islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
