@@ -31,6 +31,17 @@
 
 ---
 
+<table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rafsun-Islam&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Rafsun-Islam&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 ## 📈 Contribution Activity
 
